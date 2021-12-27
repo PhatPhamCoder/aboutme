@@ -174,7 +174,7 @@ var eric = function (){
 	
 	/*Typed js start*/
 	$("#typed").typed({
-		strings: ["^2100&nbsp;I am Shirl.<br/>Graphic Designer &amp; Enthusiast.<br/> Based in Australia."],
+		strings: ["^2100&nbsp;I am PhatPham.<br/>Graphic Designer & Webmaster; Enthusiast.<br/> Based in Viet Nam."],
 		typeSpeed: 30,
 		backDelay: 750,
 		loop: false,
